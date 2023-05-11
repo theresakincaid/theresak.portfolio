@@ -1,10 +1,9 @@
-# theresak.portfolio
-## Theresa Kincaid
+# Theresa Kincaid
 
-### Professional Self-Assessment
+## Professional Self-Assessment
 
-Category One
+Category One: Software Design and Engineering
 
-Category Two
+Category Two: Algorithm and Data Structures
 
-Category Three
+Category Three: Database
