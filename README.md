@@ -8,5 +8,4 @@ Category Two: Algorithm and Data Structures
 
 Category Three: Database
 
-## Code Review:
-https://youtu.be/WvT-Tb2NSYo
+[Code Review:](https://youtu.be/WvT-Tb2NSYo)
