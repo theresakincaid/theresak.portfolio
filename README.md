@@ -13,4 +13,4 @@
 
 ## Category Three: Database
 
-[Watch Code Review](https://youtu.be/WvT-Tb2NSYo)
+[Click to Watch Code Review](https://youtu.be/WvT-Tb2NSYo)
