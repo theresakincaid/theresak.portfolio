@@ -1,4 +1,4 @@
-# Theresa Kincaid ePortfolio
+# Theresa Kincaid's ePortfolio
 
 ## Professional Self-Assessment:
 
