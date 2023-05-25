@@ -12,6 +12,7 @@ To improve the application, I incorporated two additional buttons and implemente
 Overall, my experience with making these changes to the artifact was quite smooth. I think the most challenging part of the enhancement was implementing the timer. While understanding the logic of the timer was easy, ensuring that the timer coordinated effectively with the card layout and slide transitions took more time. Nevertheless, I am glad I was able to implement a timer because now the slideshow successfully runs automatically.
 
 ## Category Two: Algorithm and Data Structures
+This artifact is a Java application that allows users to manage a list of people's names and their corresponding weights. It also displays useful statistics regarding those weights. This artifact was originally created as part of the IT-145 course. 
 
 ## Category Three: Database
 
