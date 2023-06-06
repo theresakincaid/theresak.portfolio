@@ -1,8 +1,16 @@
 # Theresa Kincaid's ePortfolio
 
-## Professional Self-Assessment
+#### Table of Contents:
+1. Professional Self-Assessment
+2. Software Design and Engineering
+3. Algorithm and Data Structures
+4. Database
+5. Code Review
 
-## Category One: Software Design and Engineering
+
+## 1. Professional Self-Assessment
+
+## 2. Category One: Software Design and Engineering
 This artifact is a Java application called “SlideShow” and was originally created in the course CS-250. It started as a slideshow with six slides and two navigation buttons, “Previous” and “Next”. The slides show various wellness related locations, each with an image and a brief description.
 
 I have chosen to include this artifact in my ePortfolio for the software design and engineering category for the following reasons: First, it serves as evidence of my accomplishment of the course outcome, "Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science”. This code is valuable because it provides a visually appealing and interactive way for users to explore different wellness destinations. It accomplishes industry-specific goals related to creating engaging presentations and displaying information to users. The modular design of the code, the naming conventions, and the event-driven architecture all align with industry best practices. Additionally, the program follows a structured approach with well-defined methods and classes. This demonstrates my ability to organize code logically and modularize functionality.
@@ -11,7 +19,7 @@ To improve the application, I incorporated two additional buttons and implemente
 
 Overall, my experience with making these changes to the artifact was relatively trouble-free. The most demanding aspect of the enhancement was implementing the timer. While understanding the logic of the timer was easy, ensuring that the timer coordinated effectively with the card layout and slide transitions took more time. Nevertheless, I am glad I was able to implement a timer because now the slideshow successfully runs automatically.
 
-## Category Two: Algorithm and Data Structures
+## 3. Category Two: Algorithm and Data Structures
 This artifact is a Java application named "PeopleWeights" that allows users to manage a list of people's names and their corresponding weights. It also displays useful statistics regarding those weights. This artifact was originally created as part of the IT-145 course.
 
 I included this artifact in my ePortfolio because it fulfills the course outcome of designing and evaluating computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while effectively managing trade-offs involved in design choices. First, the code utilizes algorithmic principles, such as bubble sort for sorting the weights array and calculating the standard deviation. It also uses iterative loops and conditional statements to perform tasks based on user input. For computer science practices, the code follows standard practices of organizing code into functions and modularizing the solution. It uses appropriate naming conventions, formatting standards, and includes comments to improve code readability. The code manages trade-offs involved in design by considering factors such as time complexity, space complexity, and code efficiency. For instance, I chose the bubble sort algorithm for simplicity. Bubble sort algorithms are effective for sorting smaller data sets. However, if the data set were larger, I would have used an algorithm that prioritizes time complexity.
@@ -20,9 +28,9 @@ The first version of the program prompted the user to enter the names and weight
 
 When reflecting on the process of enhancing this artifact, I am pleased to say that it was a generally smooth journey. The implementation of the standard deviation calculation was the most intricate aspect of the enhancement. The standard deviation calculation involves multiple steps and requires an understanding of statistical concepts. I am satisfied that I managed to implement this calculation because it adds complexity to the program that goes beyond simple, straightforward calculations like total, average, or maximum.
 
-## Category Three: Database
+## 4. Category Three: Database
 
-## Code Review
+## 5. Code Review
 
 I have achieved one of the course outcomes by creating a comprehensive code review and sharing it on YouTube. This code review demonstrates my ability to design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and tailored to specific audiences and contexts. For each artifact, I covered the existing functionality, reviewed the code structure, comments, and explained the planned enhancements, highlighting their benefits and impact. The code review link can be found below.
 
