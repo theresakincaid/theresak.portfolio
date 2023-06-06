@@ -7,7 +7,6 @@
 4. Database
 5. Code Review
 
-
 ## 1. Professional Self-Assessment
 
 ## 2. Category One: Software Design and Engineering
