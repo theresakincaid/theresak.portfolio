@@ -1,4 +1,5 @@
 # Theresa Kincaid's ePortfolio
+Hello, I'm Theresa Kincaid. By the end of June 2023, I will have successfully completed my Bachelor of Computer Science from Southern New Hampshire University.
 
 #### Table of Contents:
 1. Professional Self-Assessment
