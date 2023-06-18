@@ -19,6 +19,7 @@ I also credit the CS-310 Collaboration and Team Project course for equipping me 
 The course CS-250 Software Development Lifecycle illustrated to me the significance of effective communication and thorough documentation throughout the Software Development Lifecycle (SDLC) process. Specifically, it demonstrated how the Agile methodology fosters clear communication among team members and stakeholders, which is vital for the success of software development projects. During this course, I had the opportunity to enhance my skills in writing documentation from a developer's perspective, in relation to sprint reviews. Specifically, I created comprehensive documentation that detailed the progress and challenges encountered during each sprint the class participated in. Thanks to this course, I learned that Agile methodologies prioritize a responsive environment where stakeholders are encouraged to regularly reevaluate and improve the project requirements.
 
 #### Data Structures and Algorithms
+During my time in the course CS-260 Data Structures and Algorithms, I had the opportunity to build vehicle bid applications in C++. Through these projects, I not only sharpened my programming skills but also deepened my understanding of algorithms and data structures. I utilized various data structures, including linked lists, vectors, trees, and hash tables, to efficiently store and manage bid information. Additionally, I implemented custom search and sort algorithms, allowing me to analyze the data efficiently.
 
 #### Software Engineering and Database
 
