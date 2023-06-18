@@ -10,6 +10,18 @@
 ## 1. Professional Self-Assessment
 Hello, I'm Theresa Kincaid. By the end of June 2023, I will have successfully completed my Bachelor of Computer Science from Southern New Hampshire University. I have genuinely cherished my experience in the computer science program. I am impressed by the program’s curriculum, which has equipped me with a broad range of skills that cover various areas within the field of computer science. Continuing on, I would like to reflect on some of the most significant experiences and accomplishments I have had during my journey in this computer science program.
 
+#### Collaborating in a Team Environment
+
+#### Communicating to Stakeholders
+
+#### Data Structures and Algorithms
+
+#### Software Engineering and Database
+
+#### Security
+
+#### Artifacts: An Inclusive Showcase
+
 ## 2. Category One: Software Design and Engineering
 This artifact is a Java application called “SlideShow” and was originally created in the course CS-250. It started as a slideshow with six slides and two navigation buttons, “Previous” and “Next”. The slides show various wellness related locations, each with an image and a brief description.
 
