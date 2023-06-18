@@ -1,5 +1,4 @@
 # Theresa Kincaid's ePortfolio
-Hello, I'm Theresa Kincaid. By the end of June 2023, I will have successfully completed my Bachelor of Computer Science from Southern New Hampshire University.
 
 #### Table of Contents:
 1. Professional Self-Assessment
@@ -9,6 +8,7 @@ Hello, I'm Theresa Kincaid. By the end of June 2023, I will have successfully co
 5. Code Review
 
 ## 1. Professional Self-Assessment
+Hello, I'm Theresa Kincaid. By the end of June 2023, I will have successfully completed my Bachelor of Computer Science from Southern New Hampshire University.
 
 ## 2. Category One: Software Design and Engineering
 This artifact is a Java application called “SlideShow” and was originally created in the course CS-250. It started as a slideshow with six slides and two navigation buttons, “Previous” and “Next”. The slides show various wellness related locations, each with an image and a brief description.
